@@ -22,7 +22,7 @@ This project analyzes **Amazon Sales Data** and presents an interactive **dashbo
 ---
 
 ## 📷 Dashboard Preview
-![Amazon Sales Dashboard] ()
+![Amazon Sales Dashboard] (https://github.com/apoorvav003/Amazon-Sales-Dashboard/blob/main/Amazon.png)
 
 ---
 
